@@ -137,11 +137,6 @@ Healthcare-LLM-Chatbot/
 
 
 ## 📷 Screenshots
-
-Add screenshots here.
-
-Example:
-
 - Login Page
 - <img width="1348" height="543" alt="image" src="https://github.com/user-attachments/assets/ee5b5660-d9c9-4454-a721-740b257ff1b2" />
 
